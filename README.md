@@ -1,16 +1,42 @@
-### Hi there 👋
+### Mateus Marinho - [Developer]
 
-<!--
-**marinhomateus/marinhomateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an information engineer student !
 
-Here are some ideas to get you started:
+- 💻 I’m currently working at Mercedes-Benz
+- :mag_right: I'm looking for job offers in development
+- 📈 I’m constantly learning and Improving my skills
+- 📊 I'm looking to collaborate with developers 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/cabreirajm/)
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" />
+
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
+
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
+
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
+
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
+
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
+
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
+
+<br />
+<br />
+
+
+---
+
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marinhomateus&show_icons=true&hide_border=true" />
+
+[linkedin]: linkedin.com/in/mateus-marinho-5969231b9/
