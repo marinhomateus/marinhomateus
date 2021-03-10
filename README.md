@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/cabreirajm/)
+[<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mateus-marinho-5969231b9/)
 
 <br />
 
