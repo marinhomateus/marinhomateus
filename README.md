@@ -3,7 +3,7 @@
 ## I am an information engineer student who is who is an enthusiast and lover of the world of technology!
 
 - 💻 I’m currently working at Mercedes-Benz
-- 🔎 I'm looking for job offers in development
+- 🔎 I'm looking for job opportunities in development
 - 📈 I’m constantly learning and Improving my skills
 - 📊 I'm looking to collaborate with developers 
 
