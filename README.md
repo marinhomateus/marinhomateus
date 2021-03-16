@@ -37,6 +37,6 @@
 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marinhomateus&show_icons=true&hide_border=true" />
+<img align="left" alt="Mateus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marinhomateus&show_icons=true&hide_border=true" />
 
 [linkedin]: linkedin.com/in/mateus-marinho-5969231b9/
