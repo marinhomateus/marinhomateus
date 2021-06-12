@@ -1,6 +1,6 @@
 ### Mateus Marinho - [Developer]
 
-## I am an information engineer student who is who is an enthusiast and lover of the world of technology!
+## I am an Software Engineer student who is who is an enthusiast and lover of the world of technology!
 
 - 💻 I’m currently working at Mercedes-Benz
 - 🔎 I'm looking for job opportunities in development
