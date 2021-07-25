@@ -17,11 +17,11 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
-<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
