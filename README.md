@@ -25,7 +25,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 
