@@ -1,6 +1,6 @@
 ### Mateus Marinho - [Developer]
 
-## I am an Software Engineer student who is who is an enthusiast and lover of the world of technology!
+## I am a Computer Science student who is who is an enthusiast and lover of the world of technology!
 
 - 💻 I’m currently working as Digital Innovation and Data Science Intern at Prometeon Tyre Group
 - 📈 I’m constantly learning and Improving my skills
